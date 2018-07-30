@@ -52,6 +52,6 @@ Since January 2016 I am a post doctoral researcher at Lauri Nummenmaa's <a href=
 
 I sometimes work as free-lance software developer and system administrator for various IT companies. More info <a href="http://fi.linkedin.com/in/enricoglerean">here</a>.
 
-In my free time I enjoy travelling, swimming, cycling, making music, and playing with my two children.
+In my free time I enjoy travelling, swimming, cycling, making music, and playing with my two children (born 2014 &amp; 2016).
 
 
