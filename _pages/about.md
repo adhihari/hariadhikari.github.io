@@ -10,8 +10,8 @@ redirect_from:
 
 I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks, and Behaviour. You can see the <a href="/publications/">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@utu.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>.  
 
-[![Recently accepted: "Distributed affective space represents multiple emotion categories across the human brain"](/images/inpress20180330.png){:width="800"}](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsy018/4956228)
-###### *Currently in press: <a href="https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsy018/4956228">"Distributed affective space represents multiple emotion categories across the human brain"</a>. 
+[![Recently accepted: "Reproducibility of importance extraction methods in neural network based fMRI classification"](/images/inpress20180701.jpg){:width="800"}](https://www.sciencedirect.com/science/article/pii/S1053811918305834)
+###### *Currently in press: <a href="https://www.sciencedirect.com/science/article/pii/S1053811918305834">"Reproducibility of importance extraction methods in neural network based fMRI classification"</a>. 
 
 ---
 
