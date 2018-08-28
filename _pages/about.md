@@ -21,6 +21,7 @@ I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks
 [![Recently published: "Maps of Subjective Feelings"](/files/Feeling_Space_screenresolution.png){:width="550"}](http://www.pnas.org/content/early/2018/08/27/1807390115)
 <br>
 ###### *Currently in press: <a href="http://www.pnas.org/content/early/2018/08/27/1807390115">"Maps of Subjective Feelings"</a>. 
+<br style="clear:both">
 
 ---
 
