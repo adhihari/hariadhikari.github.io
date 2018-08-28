@@ -10,8 +10,8 @@ redirect_from:
 
 I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks, and Behaviour. You can see the <a href="/publications/">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@utu.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>.  
 
-[![Recently accepted: "Reproducibility of importance extraction methods in neural network based fMRI classification"](/images/inpress20180701.jpg){:width="800"}](https://www.sciencedirect.com/science/article/pii/S1053811918305834)
-###### *Currently in press: <a href="https://www.sciencedirect.com/science/article/pii/S1053811918305834">"Reproducibility of importance extraction methods in neural network based fMRI classification"</a>. 
+[![Recently published: "Maps of Subjective Feelings"](/files/Nummenmaa2018_Maps_of_Feelings.mp4){:width="350"}](http://www.pnas.org/content/early/2018/08/27/1807390115)
+###### *Currently in press: <a href="http://www.pnas.org/content/early/2018/08/27/1807390115">"Maps of Subjective Feelings"</a>. 
 
 ---
 
