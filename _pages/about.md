@@ -10,7 +10,13 @@ redirect_from:
 
 I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks, and Behaviour. You can see the <a href="/publications/">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@utu.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>.  
 
-[![Recently published: "Maps of Subjective Feelings"](/files/Nummenmaa2018_Maps_of_Feelings.mp4){:width="350"}](http://www.pnas.org/content/early/2018/08/27/1807390115)
+<!-- [![Recently published: "Maps of Subjective Feelings"](/files/Nummenmaa2018_Maps_of_Feelings.mp4){:width="350"}](http://www.pnas.org/content/early/2018/08/27/1807390115)
+-->
+<video width=350 controls>
+  <source src="/files/Nummenmaa2018_Maps_of_Feelings.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
 ###### *Currently in press: <a href="http://www.pnas.org/content/early/2018/08/27/1807390115">"Maps of Subjective Feelings"</a>. 
 
 ---
