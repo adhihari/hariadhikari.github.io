@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enrico Glerean (PhD D.Tech.)"
+title                    : "Enrico Glerean (D.Sc.)"
 title_separator          : "-"
 name                     : &name "Enrico Glerean"
 description              : &description "Brain, Networks, Behaviour"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enrico Glerean<br>(PhD D.Tech.)"
+  name             : "Enrico Glerean<br>(D.Sc.)"
   avatar           : "EG_profile.jpg"
-  bio              : "Postdoctoral scientist at Aalto University, Helsinki Institute of Information Technology. Data agent/data manager at Aalto University. Neuroscience, networks, quantified behaviour, signal processing, web technologies, open data, social cognition, emotions."
+  bio              : "Staff scientist at Aalto University. Data agent, handling human data, research ethics, HPC, best practices in science, neuroscience, networks, quantified behaviour, signal processing, web technologies, open data, social cognition, emotions."
   location         : "Finland"
   employer         : 
   googlescholar    : "https://scholar.google.fi/citations?user=sD90SmMAAAAJ&hl=en"
