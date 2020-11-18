@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks, and Behaviour. You can see the <a href="/publications/">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@aalto.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>.  
+I am Enrico Glerean, I am a staff scientist and data agent at Aalto University. I like to work with Brains, Networks, and Behaviour. As a staff scientist I help researchers solving their data analysis and data management issues. I am a core member of Aalto Scientific Computing and we manage "Triton", the Aalto HPC cluster. You can see the <a href="/publications/">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@aalto.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>.  
 
 <!-- [![Recently published: "Maps of Subjective Feelings"](/files/Nummenmaa2018_Maps_of_Feelings.mp4){:width="350"}](http://www.pnas.org/content/early/2018/08/27/1807390115)
 -->
