@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="network_7.svg"
+   id="svg236"
+   viewBox="-0.5 -0.5 589.1897 320.50003"
+   height="320.50003"
+   width="589.1897"
+   version="1.1">
+  <metadata
+     id="metadata240">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     fit-margin-bottom="20"
+     fit-margin-right="20"
+     fit-margin-left="20"
+     fit-margin-top="20"
+     lock-margins="true"
+     inkscape:current-layer="svg236"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="257.14165"
+     inkscape:cx="166.31604"
+     inkscape:zoom="1.9120879"
+     inkscape:snap-global="false"
+     showgrid="false"
+     id="namedview238"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1"
+     transform="translate(0,-131)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(0,-131)" />
+  <g
+     id="g1822"
+     transform="matrix(1.1963858,0,0,1.1874233,-50.959348,-90.949857)">
+    <ellipse
+       id="ellipse6"
+       pointer-events="all"
+       ry="131.14943"
+       rx="242.3391"
+       cy="211.12932"
+       cx="288.41382"
+       style="fill:#e9e9e9;fill-opacity:1;stroke:none;stroke-width:2.49425411" />
+    <rect
+       id="rect22"
+       pointer-events="all"
+       height="20"
+       width="140"
+       y="138.25003"
+       x="220.35057"
+       style="fill:none;stroke:none" />
+    <g
+       id="g28"
+       transform="matrix(1.4282764,0,0,1.4282764,-180.85178,-65.991549)"
+       style="fill:#9d9d9d;fill-opacity:1;stroke-width:0.70014501">
+      <switch
+         id="switch26"
+         style="fill:#9d9d9d;fill-opacity:1;stroke-width:0.70014501">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 138px; margin-left: 338px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:b>
+                  <xhtml:font
+                     style="font-size: 18px">Aalto Network</xhtml:font>
+                </xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text24"
+           font-size="12px"
+           y="142"
+           x="338"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#9d9d9d;fill-opacity:1;stroke-width:0.49020201">
+          <tspan
+             style="font-weight:bold;stroke-width:0.70014501"
+             id="tspan1330">INTERNET</tspan>
+        </text>
+      </switch>
+    </g>
+    <circle
+       r="83.95977"
+       id="ellipse34"
+       pointer-events="all"
+       cy="224.5374"
+       cx="376.99426"
+       style="fill:#ffffff;stroke:none;stroke-width:2" />
+    <rect
+       id="rect36"
+       pointer-events="all"
+       height="30"
+       width="80"
+       y="256.25006"
+       x="176.85057"
+       style="fill:none;stroke:none" />
+    <rect
+       id="rect66"
+       pointer-events="all"
+       height="30"
+       width="60"
+       y="166.99716"
+       x="333.03448"
+       style="fill:none;stroke:none" />
+    <g
+       id="g72"
+       transform="translate(-43.965517,3.9971644)">
+      <switch
+         id="switch70"
+         transform="translate(12.028736,-18.304598)">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 178px; margin-left: 407px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:b
+                   style="font-size: 11px">
+                  <xhtml:font
+                     style="font-size: 11px">Triton<xhtml:br />
+
+
+Network</xhtml:font>
+                </xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text68"
+           font-size="18.2216px"
+           y="177.57889"
+           x="412.37418"
+           style="font-size:18.22159958px;font-family:Helvetica;text-anchor:middle;fill:#c1c1c1;fill-opacity:1;stroke-width:1">
+          <tspan
+             style="font-weight:bold;fill:#c1c1c1;fill-opacity:1;stroke-width:1"
+             id="tspan1292">HPC cluster</tspan>
+        </text>
+      </switch>
+    </g>
+    <rect
+       id="rect78"
+       pointer-events="all"
+       height="20"
+       width="80"
+       y="170.25003"
+       x="239.85059"
+       style="fill:none;stroke:none" />
+    <g
+       id="g1391"
+       transform="translate(-21.5,-0.20973206)">
+      <g
+         transform="translate(1.4528084,40.293103)"
+         id="g84">
+        <switch
+           transform="translate(-1.5689655,-1.045977)"
+           id="switch82">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 170px; margin-left: 328px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>triton.aalto.fi</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             x="321.20114"
+             y="171.38506"
+             font-size="12px"
+             id="text80">HPC_login_node</text>
+        </switch>
+      </g>
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         x="305.14944"
+         y="157.14941"
+         width="34.709999"
+         height="44"
+         id="image86" />
+      <g
+         transform="matrix(0.37795276,0,0,0.37795276,36.167097,-7.4696987)"
+         id="g4740"
+         inkscape:label="Layer 1">
+        <g
+           id="g4738"
+           transform="matrix(0.72477216,-0.44386542,0,0.72477216,731.55402,252.13985)">
+          <circle
+             r="22.624281"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00629566;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="circle4730"
+             cx="59.461693"
+             cy="380.0636" />
+          <circle
+             r="17.77622"
+             cy="380.0636"
+             cx="59.461693"
+             id="circle4732"
+             style="opacity:1;fill:#0046aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00494659;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+          <rect
+             y="289.37903"
+             x="-228.71979"
+             height="42.824535"
+             width="4.04005"
+             id="rect4734"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00257151;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             transform="rotate(-45)" />
+          <rect
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00257151;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="rect4736"
+             width="4.04005"
+             height="42.824535"
+             x="-312.81131"
+             y="205.28751" />
+        </g>
+      </g>
+    </g>
+    <rect
+       id="rect96"
+       pointer-events="all"
+       height="20"
+       width="80"
+       y="204.49716"
+       x="342.53448"
+       style="fill:none;stroke:none" />
+    <g
+       id="g102"
+       transform="translate(-22,7.1350953)">
+      <switch
+         id="switch100">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 210px; margin-left: 426px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:span
+                   style="font-size: 11px">
+                  <xhtml:b>CPUs/GPUs</xhtml:b>
+                </xhtml:span>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text98"
+           font-size="12px"
+           y="214"
+           x="426"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">CPUs/GPUs</text>
+      </switch>
+    </g>
+    <rect
+       id="rect132"
+       pointer-events="all"
+       height="30"
+       width="60"
+       y="266.14716"
+       x="327.03448"
+       style="fill:none;stroke:none" />
+    <g
+       id="g146"
+       transform="translate(-22,-0.70973206)">
+      <switch
+         id="switch144">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 75px; margin-left: 410px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:span
+                   style="font-size: 11px">
+                  <xhtml:b>
+                    <xhtml:br />
+                  </xhtml:b>
+                </xhtml:span>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text142"
+           font-size="12px"
+           y="79"
+           x="410"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000" />
+      </switch>
+    </g>
+    <rect
+       id="rect186"
+       pointer-events="all"
+       height="20"
+       width="40"
+       y="233.49716"
+       x="389.78448"
+       style="fill:none;stroke:none" />
+    <rect
+       id="rect194"
+       pointer-events="all"
+       height="20"
+       width="60"
+       y="213.17715"
+       x="349.53448"
+       style="fill:none;stroke:none" />
+    <g
+       id="g1290"
+       transform="translate(229.83907,-77.089035)">
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         id="image1282"
+         height="13.240311"
+         width="10.441661"
+         y="260.29855"
+         x="128.70018"
+         style="stroke-width:0.70391101" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         id="image1284"
+         height="13.240311"
+         width="10.441661"
+         y="273.55307"
+         x="139.15604"
+         style="stroke-width:0.70391101" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         id="image1286"
+         height="13.240311"
+         width="10.441661"
+         y="260.29855"
+         x="149.59772"
+         style="stroke-width:0.70391101" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         id="image1288"
+         height="13.240311"
+         width="10.441661"
+         y="273.55307"
+         x="160.05357"
+         style="stroke-width:0.70391101" />
+    </g>
+    <g
+       transform="translate(269.06321,-78.658001)"
+       id="g1328">
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         style="stroke-width:0.70391101"
+         x="128.70018"
+         y="260.29855"
+         width="10.441661"
+         height="13.240311"
+         id="image1320" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         style="stroke-width:0.70391101"
+         x="139.15604"
+         y="273.55307"
+         width="10.441661"
+         height="13.240311"
+         id="image1322" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         style="stroke-width:0.70391101"
+         x="149.59772"
+         y="260.29855"
+         width="10.441661"
+         height="13.240311"
+         id="image1324" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         style="stroke-width:0.70391101"
+         x="160.05357"
+         y="273.55307"
+         width="10.441661"
+         height="13.240311"
+         id="image1326" />
+    </g>
+    <g
+       id="g1246"
+       transform="translate(-3.718391,-34.203985)">
+      <circle
+         style="fill:#ffffff;stroke:none;stroke-width:2"
+         cx="206.35057"
+         cy="204.95976"
+         pointer-events="all"
+         id="ellipse32"
+         r="34.5" />
+      <g
+         transform="translate(-26.649425,9.9597701)"
+         id="g50">
+        <switch
+           id="switch48">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 182px; margin-left: 232px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:b
+                     style="font-size: 11px">
+                    <xhtml:font
+                       style="font-size: 11px">VDI<xhtml:br />
+
+
+Network</xhtml:font>
+                  </xhtml:b>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             x="232.52299"
+             y="182.33908"
+             font-size="12px"
+             id="text46">Nodes</text>
+        </switch>
+      </g>
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         style="stroke-width:0.70391101"
+         x="185.1207"
+         y="197.54597"
+         width="10.441661"
+         height="13.240311"
+         id="image112" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         style="stroke-width:0.70391101"
+         x="195.57655"
+         y="210.80049"
+         width="10.441661"
+         height="13.240311"
+         id="image114" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         style="stroke-width:0.70391101"
+         x="206.01823"
+         y="197.54597"
+         width="10.441661"
+         height="13.240311"
+         id="image116" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         style="stroke-width:0.70391101"
+         x="216.47409"
+         y="210.80049"
+         width="10.441661"
+         height="13.240311"
+         id="image118" />
+    </g>
+    <g
+       id="g1385"
+       transform="translate(-21.5,-0.20973206)">
+      <path
+         d="m 198.74862,116.33873 h 1.39 v -1.4 h -1.39 z m 2.79,0 h 1.39 v -1.4 h -1.39 z m -24.23,22.5 c -0.93,0 -1.8,-0.83 -1.8,-1.85 v -21.59 c 0,-1.17 1.02,-1.87 1.79,-1.87 h 27.98 c 0.87,0 1.83,0.73 1.83,1.86 v 10.8 h -1.39 v -7.97 h -28.82 v 18.77 c 0,0.3 0.26,0.45 0.44,0.45 h 17.22 v 1.4 z m 4.24,-3.75 v -3.75 h 2.33 v -3.75 h 6.97 v -2.81 h -2.79 v -4.22 h 6.5 v 4.22 h -2.78 v 2.81 h 3.16 c -0.15,0.28 -0.28,0.58 -0.33,0.93 h -2.83 v 2.82 h 2.32 v 3.75 h -5.58 v -3.75 h 2.33 v -2.82 h -6.05 v 2.82 h 2.33 v 3.75 z m 22.77,-18.75 h 1.4 v -1.4 h -1.4 z m -7.01,27.19 c -0.64,0 -1.35,-0.51 -1.35,-1.43 v -13.14 c 0,-0.72 0.59,-1.37 1.37,-1.37 h 13.05 c 0.62,0 1.38,0.46 1.38,1.45 v 13.1 c 0,0.9 -0.76,1.39 -1.34,1.39 z m 6.1,-3.31 c -0.87,-0.07 -1.7,-0.42 -2.34,-0.92 -0.2,-0.25 -0.42,-0.47 -0.66,-0.6 -0.08,-0.09 -0.16,-0.2 -0.25,-0.31 -0.12,-0.34 -0.29,-0.73 -0.32,-0.98 -0.05,-0.23 -0.01,-0.38 0.19,-0.5 0.26,-0.14 0.61,-0.25 0.95,-0.37 -0.08,-0.15 -0.31,-0.36 -0.51,-0.55 -0.29,-0.28 -0.57,-0.55 -0.78,-0.8 -0.16,-0.18 -0.29,-0.34 -0.37,-0.7 0.45,-1.89 1.75,-2.87 2.83,-3.3 0.25,0.14 0.4,0.4 0.46,0.63 0.04,0.17 0.08,0.19 0.3,0.18 0.11,-0.01 0.48,-0.44 0.68,-0.52 0.22,-0.13 0.46,-0.12 0.62,0 0.26,0.16 0.29,0.39 0.32,0.62 0.02,0.24 0,0.54 -0.12,0.76 -0.05,0.08 -0.07,0.08 -0.17,0.08 -0.28,0.02 -0.5,0.05 -0.75,0.34 -0.15,0.19 -0.25,0.27 -0.56,0.26 -0.09,0.01 -0.16,0.08 -0.21,0.13 -0.21,0.24 -0.38,0.6 -0.47,0.98 -0.03,0.11 -0.02,0.24 0.04,0.39 0.08,0.23 0.26,0.6 0.17,0.61 -0.26,-0.1 -0.48,-0.24 -0.59,-0.38 -0.11,-0.12 -0.2,-0.26 -0.19,-0.45 -0.16,-0.16 -0.35,-0.23 -0.58,-0.18 -0.2,0.03 -0.33,0.15 -0.29,0.44 0.08,0.31 0.38,0.65 0.66,0.92 0.23,0.22 0.47,0.43 0.72,0.64 0.06,0 0.11,0.04 0.22,0.05 0.27,-0.01 0.69,-0.03 0.93,-0.05 0.24,0 0.5,-0.01 0.67,0.05 0.13,0.04 0.15,0.13 0.13,0.18 0.43,0.45 0.25,1.17 -0.09,1.64 -0.17,0.25 -0.26,0.53 -0.33,0.83 -0.08,0.36 -0.15,0.68 -0.31,0.88 z m 4.33,-2.09 c -0.3,-0.03 -0.86,-1.01 -0.91,-1.63 -0.31,-0.06 -1.07,-0.3 -1.52,-0.68 -0.22,-0.16 -0.24,-0.41 -0.16,-0.76 0.12,-0.44 0.51,-0.89 1.05,-1.3 0.24,-0.19 0.66,-0.48 0.7,-0.56 0.06,-0.05 0.01,-0.08 -0.12,-0.08 -0.2,0.01 -0.41,0.01 -0.56,-0.01 -0.45,-0.06 -0.61,-0.25 -0.48,-0.6 0.13,-0.38 0.43,-0.72 0.68,-0.86 0.8,0.54 1.79,1.58 2.05,3.29 0.15,1.32 -0.19,2.36 -0.73,3.19 z m -3.9,2.59 c 2.81,0 5.13,-2.32 5.13,-5.15 0,-3.02 -2.44,-5.16 -5.05,-5.16 -2.84,0 -5.17,2.25 -5.17,5.13 0,3.04 2.41,5.18 5.09,5.18 z"
+         pointer-events="all"
+         id="path54"
+         inkscape:connector-curvature="0"
+         style="fill:#505050;stroke:none" />
+      <g
+         transform="translate(45.648268,-77.994254)"
+         id="g208">
+        <switch
+           id="switch206">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 183px; margin-left: 148px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>https://vdi.aalto.fi</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             x="148"
+             y="187"
+             font-size="12px"
+             id="text204">https://mybinder.org</text>
+        </switch>
+      </g>
+    </g>
+    <g
+       transform="translate(-66.844828,99.00866)"
+       id="g946">
+      <g
+         id="g942"
+         transform="translate(1.4528084,40.293103)" />
+      <image
+         sodipodi:absref="C:\Users\eglerean\Downloads\Server_Desktop.svg"
+         xlink:href="Server_Desktop.svg"
+         id="image944"
+         height="44"
+         width="34.709999"
+         y="157.14941"
+         x="305.14944" />
+    </g>
+    <g
+       transform="translate(139.42529,79.867816)"
+       id="g967">
+      <g
+         id="g952"
+         transform="translate(-345.72989,68.324751)">
+        <switch
+           id="switch950">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="100%"
+             width="100%"
+             pointer-events="none"
+             style="overflow: visible; text-align: left;">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 210px; margin-left: 426px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>CPUs/GPUs</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text948"
+             font-size="12px"
+             y="162.74713"
+             x="464.17816"
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">Remote</text>
+        </switch>
+      </g>
+      <g
+         transform="translate(-345.72989,80.324751)"
+         id="g958">
+        <switch
+           id="switch956">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 210px; margin-left: 426px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>CPUs/GPUs</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             x="464.17816"
+             y="162.74713"
+             font-size="12px"
+             id="text954">desktop</text>
+        </switch>
+      </g>
+    </g>
+    <path
+       style="fill:#bdbdbd;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:10;stroke-dasharray:none"
+       d="m 325.13219,280.751 v -39.19157 c 0,-5.40844 13.43,-9.7979 30,-9.7979 16.57,0 30,4.38946 30,9.7979 V 280.751 c 0,5.40843 -13.43,9.79789 -30,9.79789 -16.57,0 -30,-4.38946 -30,-9.79789 z"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path74"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:10;stroke-dasharray:none"
+       d="m 325.13219,241.55943 c 0,5.40843 13.43,9.79789 30,9.79789 16.57,0 30,-4.38946 30,-9.79789"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path76"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1717"
+       y="266.66095"
+       x="326.1839"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="266.66095"
+         x="326.1839"
+         id="tspan1715"
+         sodipodi:role="line">Big data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="334.1839"
+       y="282.66095"
+       id="text1721"><tspan
+         sodipodi:role="line"
+         id="tspan1719"
+         x="334.1839"
+         y="282.66095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:Arial">(slow)</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1725"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 71.693372,264.5991 v -38.74983 c 0,-5.34748 30.958088,-9.68747 69.154338,-9.68747 38.19624,0 69.15433,4.33999 69.15433,9.68747 v 38.74983 c 0,5.34747 -30.95809,9.68746 -69.15433,9.68746 -38.19625,0 -69.154338,-4.33999 -69.154338,-9.68746 z"
+       style="fill:#bdbdbd;stroke:#000000;stroke-width:1.96259665;stroke-miterlimit:10;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1727"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 71.693372,225.84927 c 0,5.34747 30.958088,9.68745 69.154338,9.68745 38.19624,0 69.15433,-4.33998 69.15433,-9.68745"
+       style="fill:none;stroke:#000000;stroke-width:1.96259665;stroke-miterlimit:10;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="78.563202"
+       y="249.77589"
+       id="text1731"><tspan
+         id="tspan1737"
+         sodipodi:role="line"
+         x="78.563202"
+         y="249.77589"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:Arial">Big data on cloud</tspan></text>
+    <text
+       id="text1735"
+       y="264.72992"
+       x="122.87961"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="264.72992"
+         x="122.87961"
+         id="tspan1733"
+         sodipodi:role="line">(slow)</tspan></text>
+  </g>
+</svg>
