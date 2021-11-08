@@ -1,14 +1,20 @@
 ---
 permalink: /
 title: "Enrico Glerean (PhD D.Tech.)"
-excerpt: "Enrico Glerean, PhD (D.Tech.) – Brain, Networks, Behaviour"
+excerpt: "Enrico Glerean, PhD (D.Tech.)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Enrico Glerean, I am a staff scientist and data agent at Aalto University. I like to work with Brains, Networks, and Behaviour. As a staff scientist I help researchers solving their data analysis and data management issues. I am a core member of Aalto Scientific Computing and we manage "Triton", the Aalto HPC cluster. You can see the <a href="/publications/">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@aalto.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>.  
+I am Enrico Glerean, I am a <strong>staff scientist</strong> at the Aalto School of Science, core member of the <strong><a href="https://scicomp.aalto.fi/">Aalto Scientific Computing</a></strong> team where we run the <a href="https://scicomp.aalto.fi/triton/">Triton high performance computing cluster</a>, help researchers with their <a href="https://scicomp.aalto.fi/rse/">research software</a>, and teach massive online hands-on courses like "<a href="https://www.youtube.com/playlist?list=PLZLVmS9rf3nOS7bHNmbcDoyTnMYaz_TJW">Python for Scientific Computing</a>". I am an expert in working with <a href="https://www.youtube.com/watch?v=jPOc_RL7wwE"><strong>personal data in research</strong></a>: I train and support researchers with issue related to GDPR, secure computing workflows for sensitive data, <a href="https://figshare.com/articles/presentation/Personal_data_pseudo-_anonymization/16408980">data anonymization</a>. 
+<br><br>
+My research domain is <a href="https://scholar.google.fi/citations?user=sD90SmMAAAAJ&hl=en"><strong>cognitive neuroscience</strong></a>, with focus on methods for magnetic resonance imaging of the brain. 
+<br><br>
+I am a passionate promoter of <a href="https://figshare.com/articles/presentation/Responsible_conduct_of_research_and_questionable_research_practices/10303487"><strong>open science, transparency, ethics, research integrity, and reproducibility</strong></a>: I train other researchers on these issues and I am a founding member of the <a href="https://www.finnish-rn.org/"><strong>Finnish Reproducibility Network</strong></a>. I am a core member of the <a href="https://www.aalto.fi/en/news/meet-the-data-agent-enrico-glerean">Aalto Data Agents network</a>. I am a member of <a href="https://nordic-rse.org/">Nordic-RSE</a> and <a href="http://coderefinery.org/">CodeRefinery</a>, two communities in the Nordics devoted to training and helping researchers with scientific software and reproducibility. I am an activist trying to bring a change on issues about <strong>equality and inclusivity for women in STEM</strong>: I am one of the organizers of the "<a href="https://www.aalto.fi/en/making-waves">Making Waves</a>" initiative.
+
+You can see the <a href="https://scholar.google.fi/citations?user=sD90SmMAAAAJ&hl=en">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@aalto.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>.  
 
 <!-- [![Recently published: "Maps of Subjective Feelings"](/files/Nummenmaa2018_Maps_of_Feelings.mp4){:width="350"}](http://www.pnas.org/content/early/2018/08/27/1807390115)
 -->
@@ -20,7 +26,7 @@ I am Enrico Glerean, I am a staff scientist and data agent at Aalto University. 
 </div>
 [![Recently published: "Maps of Subjective Feelings"](/files/Feeling_Space_screenresolution.png){:width="550"}](http://www.pnas.org/content/early/2018/08/27/1807390115)
 <br>
-###### *Currently in press: <a href="http://www.pnas.org/content/early/2018/08/27/1807390115">"Maps of Subjective Feelings"</a>. 
+###### <a href="http://www.pnas.org/content/early/2018/08/27/1807390115">"Maps of Subjective Feelings"</a>. 
 <br style="clear:both">
 
 ---
@@ -56,8 +62,8 @@ Studying the brain without behaviour is like trying to understand a car without 
 ---
 
 About Enrico Glerean
-======
-I was born in 1977 in Italy in a town close to Venice. I graduated in Telecommunication Engineering (University of Padua, 2002) and worked as a research assistant (2003-2004); research topic: patterns in time-series of internet traffic. In 2004 I left academia and moved to London to work for the IT industry until end 2007. I went back to academia studying for a second master degree in music cognition: <a href="https://www.jyu.fi/hum/laitokset/musiikki/en/studies/mmt/MMT-programme">Music, Mind &amp; Technology</a> (University of Jyv&auml;skyl&auml;). This led me to a research position as part of the <a href="http://neuro.hut.fi/aivoaalto/">aivoAALTO</a> research team which ended up in 2015 with me completing a PhD (Doctor of Technology) with distinction at <a href="http://sci.aalto.fi/en/">Aalto University School of Science</a> (former Helsinki University of Technology) combining fMRI and complex networks methods to understand brain functions. I was a post doctoral researcher at Lauri Nummenmaa's <a href="http://emotion.utu.fi/">Human Emotion Systems Lab</a> at University of Turku, and I am now a post-doctoral researcher with Jari Saramäki's <a href="http://complex.cs.aalto.fi/">Complex Systems</a> group at Aalto University. 
+====================
+I was born in 1977 in Italy in a town close to Venice. I graduated in Telecommunication Engineering (University of Padua, 2002) and worked as a research assistant (2003-2004); research topic: patterns in time-series of internet traffic. In 2004 I left academia and moved to London to work for the IT industry until end 2007. I went back to academia studying for a second master degree in music cognition: <a href="https://www.jyu.fi/hum/laitokset/musiikki/en/studies/mmt/MMT-programme">Music, Mind &amp; Technology</a> (University of Jyv&auml;skyl&auml;). This led me to a research position as part of the <a href="http://neuro.hut.fi/aivoaalto/">aivoAALTO</a> research team which ended up in 2015 with me completing a PhD (Doctor of Technology) with distinction at <a href="http://sci.aalto.fi/en/">Aalto University School of Science</a> (former Helsinki University of Technology) combining fMRI and complex networks methods to understand brain functions. I was a post doctoral researcher at Lauri Nummenmaa's <a href="http://emotion.utu.fi/">Human Emotion Systems Lab</a> at University of Turku, and at the <a href="http://complex.cs.aalto.fi/">Complex Systems</a> group at Aalto University. To read what I am up to these days, see section at the top of this page.
 
 I sometimes work as free-lance software developer and system administrator for various IT companies. More info <a href="http://fi.linkedin.com/in/enricoglerean">here</a>.
 
